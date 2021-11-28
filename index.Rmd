@@ -1,0 +1,9 @@
+---
+title: "index"
+author: "Alyssa Grube"
+date: "11/28/2021"
+output: html_document
+---
+Link to slide decks: 
+
+Link to CV: https://github.com/stat850-unl/11-presentation-aegrube6/blob/master/cvtemplategrube.pdf
