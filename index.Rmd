@@ -4,7 +4,7 @@ author: "Alyssa Grube"
 date: "11/28/2021"
 output: html_document
 ---
-Link to slide decks RMD: https://github.com/stat850-unl/11-presentation-aegrube6/commit/446f4083573dca92dc8137383d3351fb36a7c3e0
+Link to slide decks RMD: https://github.com/stat850-unl/11-presentation-aegrube6/commit/b8f660912b9c52c563c0b99d078095ba9e17b5a1 
 
 Link to slide decks LaTeX: 
 
