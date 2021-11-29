@@ -1,0 +1,61 @@
+About Me!
+========================================================
+author: Alyssa Grube
+date: November 29, 2021
+autosize: true
+
+Mini Autobiography
+========================================================
+
+- When is my birthday?
+June 20
+- Where did I grow up?
+Arizona and Pennsylvania
+- When do I expect to graduate?
+May 2025
+
+Favorite Plot Generated in This Class
+========================================================
+
+```{r, echo=FALSE}
+#echo=false tells r to display output of code but not the underlying code
+if (!"palmerpenguins" %in% installed.packages()) {
+  remotes::install_github("allisonhorst/palmerpenguins")
+}
+library(palmerpenguins)
+library(ggplot2)
+library(plotly)
+library(reshape2)
+library(extrafont)
+library(tidyverse)
+#font_import(font="Times")
+library(remotes)
+#remotes::install_version("Rttf2pt1", version = "1.3.8")
+#extrafont::font_import()
+# loadfonts(device = "win")
+
+#head(penguins)
+
+
+
+#do your worst
+
+ggplot(penguins, aes(x=bill_length_mm, y=bill_depth_mm, label=species,color=year, linetype=island))+
+geom_point()+
+  stat_ellipse()+
+  theme_dark(base_size=4, base_family ="Wingdings") +
+  geom_text(aes(label=species), size=2, family=windowsFont("Wingdings "))+
+  ggtitle("Bill measurement across penguin species")+
+  xlab("Bill Length (mm)")+
+  ylab("Bill Depth (mm)")
+
+
+```
+
+My Favorite Animal
+========================================================
+
+
+![A picture of a Tiger ](tiger.png)
+
+
