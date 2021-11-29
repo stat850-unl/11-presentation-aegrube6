@@ -6,6 +6,6 @@ output: html_document
 ---
 Link to slide decks RMD: https://github.com/stat850-unl/11-presentation-aegrube6/blob/master/grube-presentation.md 
 
-Link to slide decks LaTeX: https://github.com/stat850-unl/11-presentation-aegrube6/blob/master/grubepresentation.tex
+Link to slide decks LaTeX: https://github.com/stat850-unl/11-presentation-aegrube6/blob/master/grubepresentation.pdf
 
 Link to CV: https://github.com/stat850-unl/11-presentation-aegrube6/blob/master/cvtemplategrube.pdf
