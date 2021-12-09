@@ -4,8 +4,10 @@ author: "Alyssa Grube"
 date: "11/28/2021"
 output: html_document
 ---
-Link to slide decks RMD: https://github.com/stat850-unl/11-presentation-aegrube6/blob/master/grube-presentation.md 
 
-Link to slide decks LaTeX: https://github.com/stat850-unl/11-presentation-aegrube6/blob/master/grubepresentation.pdf
+[Link to slide deck - html](https://stat850-unl.github.io/11-presentation-aegrube6/grube-presentation.html)
 
-Link to CV: https://github.com/stat850-unl/11-presentation-aegrube6/blob/master/cvtemplategrube.pdf
+[Link to slide decks -
+LaTeX]  https://stat850-unl.github.io/11-presentation-aegrube6/grubepresentation.pdf
+
+[Link to CV] https://stat850-unl.github.io/11-presentation-aegrube6/cvtemplategrube.pdf
